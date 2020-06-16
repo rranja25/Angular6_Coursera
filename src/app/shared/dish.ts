@@ -1,10 +1,10 @@
-export class dish{
-    id:string;
-    name:string;
-    image:string;
-    category:string;
-    featured:boolean;
-    label:string;
-    price:string;
-    decsription:string;
+export class Dish{
+    id: string;
+    name: string;
+    image: string;
+    category: string;
+    featured: boolean;
+    label: string;
+    price: string;
+    description: string;
 }
